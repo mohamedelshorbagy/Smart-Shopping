@@ -2,3 +2,7 @@
 	path = Smart-Shopping-Android
 	url = https://github.com/MamdouhRElNakeeb/Smart-Shopping-Android
 	branch = master
+[submodule "Smart-Shopping-Backend"]
+	path = Smart-Shopping-Backend
+	url = https://github.com/mohamedelshorbagy/Smart-Shopping-Backend
+	branch = master
