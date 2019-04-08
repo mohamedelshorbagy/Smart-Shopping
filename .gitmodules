@@ -1,0 +1,4 @@
+[submodule "Smart-Shopping-Android"]
+	path = Smart-Shopping-Android
+	url = https://github.com/MamdouhRElNakeeb/Smart-Shopping-Android
+	branch = master
